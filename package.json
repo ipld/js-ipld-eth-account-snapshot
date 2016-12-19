@@ -1,7 +1,7 @@
 {
-  "name": "js-ipld-eth-tx",
-  "version": "2.0.0",
-  "description": "JavaScript Implementation of the IPLD format - Ethereum Transaction",
+  "name": "js-ipld-eth-account-snapshot",
+  "version": "1.0.0",
+  "description": "JavaScript Implementation of the IPLD format - Ethereum Account Snapshot",
   "main": "src/index.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,7 @@
   "dependencies": {
     "async": "^2.1.4",
     "cids": "^0.3.4",
-    "ethereumjs-tx": "^1.1.2",
+    "ethereumjs-account": "^2.0.4",
     "multihashes": "^0.3.0"
   },
   "devDependencies": {
