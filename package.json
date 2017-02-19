@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^2.1.5",
     "cids": "^0.3.4",
     "ethereumjs-account": "^2.0.4",
     "multihashes": "^0.3.0"
