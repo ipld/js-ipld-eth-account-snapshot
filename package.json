@@ -13,7 +13,7 @@
     "multihashes": "^0.3.0"
   },
   "devDependencies": {
-    "aegir": "^9.1.2",
+    "aegir": "^11.0.0",
     "chai": "^3.5.0",
     "ipfs-block": "^0.5.3"
   },
